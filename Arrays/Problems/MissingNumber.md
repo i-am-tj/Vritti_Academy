@@ -1,4 +1,4 @@
-[Leetccode](https://leetcode.com/problems/missing-number)
+[Leetcode](https://leetcode.com/problems/missing-number)
 
 [GFG](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays&sortBy=submissions)
 
