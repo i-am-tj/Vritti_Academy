@@ -1,5 +1,6 @@
 JAVA SOLUTION
 
+```java
 class Solution {
     int transitionPoint(int arr[], int n) {
         // code here
@@ -27,3 +28,4 @@ class Solution {
         return -1;
     }
 }
+```

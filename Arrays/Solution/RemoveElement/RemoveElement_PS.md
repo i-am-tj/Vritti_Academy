@@ -1,5 +1,6 @@
 JAVA SOLUTION
 
+```java
 class Solution {
     public int removeElement(int[] nums, int val) {
         int A[]=new int[nums.length];
@@ -27,3 +28,4 @@ class Solution {
         return k;
     }
 }
+```

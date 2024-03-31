@@ -1,6 +1,6 @@
 JAVA SOLUTION
 
-
+```java
 class Solution {
     boolean arraySortedOrNot(int[] arr, int n) {
         // code here
@@ -15,3 +15,4 @@ class Solution {
         return true;
     }
 }
+```

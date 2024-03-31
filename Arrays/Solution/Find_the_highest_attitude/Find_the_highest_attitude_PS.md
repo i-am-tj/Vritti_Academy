@@ -1,6 +1,6 @@
 ///JAVA SOLUTION
 
-
+```java
 class Solution {
    public int largestAltitude(int[] gain) {
         int a[]= new int[gain.length+1];
@@ -19,3 +19,4 @@ class Solution {
        return a[res];
     }
 }
+```

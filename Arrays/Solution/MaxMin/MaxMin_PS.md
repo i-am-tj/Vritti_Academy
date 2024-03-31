@@ -1,5 +1,6 @@
 //java solution  
 
+```java
 class Solution
 { 
     public static int findSum(int A[],int N) 
@@ -21,3 +22,4 @@ class Solution
         return max+min;
     }
 }
+```

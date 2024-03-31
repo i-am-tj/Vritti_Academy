@@ -1,5 +1,7 @@
 //java
 
+
+```java
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
@@ -12,3 +14,4 @@ class Solution {
         
     }
 }
+```
