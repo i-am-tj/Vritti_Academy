@@ -1,3 +1,4 @@
+```C++
 class Solution {
 public:
     void rotate(vector<int>& v, int k) {
@@ -8,3 +9,4 @@ public:
     reverse(v.begin(),v.end());
     }
 };
+```

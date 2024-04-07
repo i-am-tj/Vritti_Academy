@@ -1,3 +1,4 @@
+```C++
 class Solution {
     public boolean isMonotonic(int[] nums) {
         int n=nums.length;
@@ -18,3 +19,4 @@ class Solution {
         return true;
     }
 }
+```
