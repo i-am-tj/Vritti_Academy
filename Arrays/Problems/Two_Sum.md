@@ -1,8 +1,6 @@
-## [[**leetcode**](https://leetcode.com/problems/two-sum/description/)]
-<br>
+ [[<b>leetcode]](https://leetcode.com/problems/two-sum/description/)
 
-
-<br>
+```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -35,3 +33,4 @@ Output: [0,1]
 -109 <= target <= 109<BR>
 
 Only one valid answer exists
+```
