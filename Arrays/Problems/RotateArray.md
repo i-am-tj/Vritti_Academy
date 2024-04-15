@@ -1,4 +1,4 @@
-[leetcode] (https://leetcode.com/problems/rotate-array/description/)
+[leetcode] ( https://leetcode.com/problems/rotate-array/description )
 
 Given an array arr[] of size N containing equal number of odd and even numbers. Arrange the numbers in such a way that all the even numbers get the even index and odd numbers get the odd index.
 Note: There are multiple possible solutions, Print any one of them. Also, 0-based indexing is considered.
